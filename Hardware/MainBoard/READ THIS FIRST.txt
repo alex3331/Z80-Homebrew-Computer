@@ -1,0 +1,11 @@
+READ THIS FIRST
+After the board was submitted to JLCPCB in September 2026 some changes were made in schematics. They include different configuration of inverters in development area, replacing 4-BIT port 'BANK' from 74HCT174 to 74HCT573 latch, adding a sound output Jack. The actual GERBERS and production files were downloaded from JLCPCB and are stored in separate folder. Comments on the schematics sheet should help
+To do list:
+Finish soldering
+Receive and check YM2149
+Receive and program PIC16F886
+Review Monitor content
+Program GAL16V8 for ROM disk
+Review character generator ROM
+Review connection of attribute bit 7 (invert)
+Program GAL22V10
