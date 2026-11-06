@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "32kx32 bit-cache") (type "Legacy") (uri "C:/Users/Acer2026A/OneDrive/Desktop/MINIMAL 640x384x4/32kx32 bit-cache.lib") (options "") (descr "Legacy project cache library"))
+)
